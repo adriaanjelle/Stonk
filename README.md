@@ -1,6 +1,7 @@
 # Stonk
 
-![](Stonk-1500px.jpg)
+![](Stonk-1500px.jpg)  
+![](https://img.shields.io/github/downloads/adriaanjelle/Stonk/total?style=for-the-badge&labelColor=183535&color=183535)
 
 A simple stock market widget for Rainmeter. It shows you the currency, current market value and the relative rise/fall of the stock compared to the previous close of your favorite stock. You can also hold your cursor on the text to reveal more information.
 
